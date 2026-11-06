@@ -1,0 +1,31 @@
+# Compiled programs and build output
+/client
+/server
+/client.exe
+/server.exe
+*.o
+*.obj
+*.out
+/build/
+
+# Generated transfer data
+*.bin
+*.dat
+*.log
+
+# Local configuration and editors
+.env
+.env.*
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Original submission files contain student IDs
+/README.txt
+/lab2-f25 - Submission.pdf
